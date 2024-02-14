@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-pareto-type1-mean",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Pareto (Type I) distribution expected value.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-pinf": "^0.1.1"
+    "@stdlib/constants-float64-pinf": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.1.1",
