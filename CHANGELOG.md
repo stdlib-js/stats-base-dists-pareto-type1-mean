@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-28)
+## Unreleased (2026-06-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f6e6298`](https://github.com/stdlib-js/stdlib/commit/f6e629859db6d74f91097f8015c9e70514c29d88) - **refactor:** rename internal variable [(#13089)](https://github.com/stdlib-js/stdlib/pull/13089) _(by Philipp Burckhardt)_
 -   [`b08cf89`](https://github.com/stdlib-js/stdlib/commit/b08cf89e49280c72b1d79e2c2262784e01448dac) - **docs:** fix parameter type in comment of `pareto-type1/mean/lib/native.js` [(#10811)](https://github.com/stdlib-js/stdlib/pull/10811) _(by Siddhartha Mondal, Philipp Burckhardt)_
 -   [`3badc70`](https://github.com/stdlib-js/stdlib/commit/3badc707161e55feca4501c7d031171a7813eb39) - **bench:** refactor to use string interpolation in `stats/base/dists/pareto-type1` [(#10467)](https://github.com/stdlib-js/stdlib/pull/10467) _(by Vishal Gaikwad)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
