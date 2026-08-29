@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`c273fb7`](https://github.com/stdlib-js/stdlib/commit/c273fb7f47745c415045678434c2baa37bb11685) - **test:** migrate `stats/base/dists/pareto-type1/mean` to ULP-based assertions [(#14763)](https://github.com/stdlib-js/stdlib/pull/14763) _(by Athan Reines)_
 -   [`2671115`](https://github.com/stdlib-js/stdlib/commit/2671115d6032e59f3ada1b661085d8999f31a88c) - **refactor:** add explicit `isnan` guards [(#13343)](https://github.com/stdlib-js/stdlib/pull/13343) _(by Philipp Burckhardt)_
 -   [`2b13bb1`](https://github.com/stdlib-js/stdlib/commit/2b13bb1a58ff9778770ef55dadc2b4b1ed675de0) - **refactor:** rename internal variable [(#13089)](https://github.com/stdlib-js/stdlib/pull/13089) _(by Philipp Burckhardt)_
 -   [`b08cf89`](https://github.com/stdlib-js/stdlib/commit/b08cf89e49280c72b1d79e2c2262784e01448dac) - **docs:** fix parameter type in comment of `pareto-type1/mean/lib/native.js` [(#10811)](https://github.com/stdlib-js/stdlib/pull/10811) _(by Siddhartha Mondal, Philipp Burckhardt)_
@@ -28,8 +29,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 -   Vishal Gaikwad
